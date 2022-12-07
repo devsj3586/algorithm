@@ -1,3 +1,5 @@
+package level0;
+
 // 양꼬치 문제
 class Solution9 {
     public int solution(int n, int k) {

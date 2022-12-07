@@ -1,3 +1,5 @@
+package level0;
+
 class Solution10 {
     public double solution(int[] arr) {
         double sum = 0;

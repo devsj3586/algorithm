@@ -1,3 +1,5 @@
+package level0;
+
 // 짝수의 합
 class Solution11 {
     public int solution(int n) {

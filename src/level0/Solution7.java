@@ -1,3 +1,5 @@
+package level0;
+
 // 각도기 문제
 class Solution7 {
     public int solution(int angle) {

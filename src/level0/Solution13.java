@@ -1,3 +1,5 @@
+package level0;
+
 //  머쓱이 보다 키큰사람
 class Solution13 {
     public int solution(int[] array, int height) {

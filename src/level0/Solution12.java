@@ -1,3 +1,5 @@
+package level0;
+
 // 중복된 숫자 개수
 class Solution12 {
     public int solution(int[] array, int n) {
